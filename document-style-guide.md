@@ -1,9 +1,8 @@
 # 中文技术文档写作教程
-====
-document-style-guide
-====
+====document-style-guide====
+
 [TOC]
-====
+
 
 # 关于
 
